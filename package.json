@@ -1,6 +1,6 @@
 {
   "name": "scriptbukkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JavaScript package for running Minecraft server as a child process.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
